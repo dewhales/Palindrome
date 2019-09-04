@@ -1,0 +1,67 @@
+body {
+	background-color: rgb(0,128,255);
+}
+h1 {
+	color: white;
+	margin-top: 50px;
+	letter-spacing: 15px;
+	word-spacing: 25px;
+	font-size: 30pt;
+	text-shadow: 0px 0px 10px white;
+	text-align: center;
+}
+p {
+	text-align: center;
+	list-style: none;
+	background-color: white;
+	font-weight: lighter;
+	padding-left: 15px;
+	color: rgb(0,128,255);
+	font-size: 20pt;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	text-shadow: 1px 1px 2px gray;
+	height: 40px;
+	width: 800px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	border-radius: 20px;
+}
+#input {
+	width: 800px;
+	margin: 0 0 0 200px;
+	height: 50px;
+	background-color: rgb(0,128,255);
+	border-radius: 20px;
+	padding-left: 20px;
+	border-top: none;
+	border-right: none;
+	border-bottom: 5px solid gray;
+	border-left: none;
+	color: white;
+	font-size: 14pt;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+	text-shadow: 0 0 2px gray;
+}
+button {
+	width: 100px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: white;
+	font-size: 15pt;
+	color: gray;
+	text-shadow: 1px 1px 1px black;
+	margin-left: 100px;
+}
+label {
+	display: block;
+	margin-left: 150px;
+	color: lightgreen;
+}
+#color {
+	width: 150px;
+	margin-left: 150px;
+}
